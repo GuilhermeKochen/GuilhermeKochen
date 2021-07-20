@@ -1,0 +1,5 @@
+- 👋 Olá, Meu nome é Guilherme Kochen, tenho 14 anos
+- Sou DEV Full Stack 
+- Programo em JavaScript e Python
+- Pretendo aprender varias outras linguagens, incluindo Ruby e PHP 
+- Caso tenha interesse, me contate! guilhermekochen51@gmail.com
